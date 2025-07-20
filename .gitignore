@@ -54,3 +54,4 @@ TestResult.xml
 nunit-*.xml
 .env
 node_modules
+output.json
